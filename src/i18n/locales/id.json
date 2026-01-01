@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Kontak",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Nama Anda",
+    "subtitle": "Portfolio Profesional"
+  },
+  "about": {
+    "title": "Tentang",
+    "description": "Selamat datang di portfolio saya."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Artikel dan wawasan terbaru."
+  },
+  "contact": {
+    "title": "Kontak",
+    "description": "Hubungi saya.",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "send": "Kirim",
+    "success": "Pesan berhasil dikirim!",
+    "error": "Gagal mengirim pesan."
+  },
+  "footer": {
+    "builtwith": "Dibangun dengan Next.js",
+    "cookiesettings": "Pengaturan cookie"
+  },
+  "auth": {
+    "signin": "Masuk",
+    "signout": "Keluar",
+    "devpassword": "Kata Sandi Dev"
+  }
+}

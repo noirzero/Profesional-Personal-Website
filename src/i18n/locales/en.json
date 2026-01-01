@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "about": "About",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Your Name",
+    "subtitle": "Professional Portfolio"
+  },
+  "about": {
+    "title": "About",
+    "description": "Welcome to my portfolio."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Latest articles and insights."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message."
+  },
+  "footer": {
+    "builtwith": "Built with Next.js",
+    "cookiesettings": "Cookie settings"
+  },
+  "auth": {
+    "signin": "Sign in",
+    "signout": "Sign out",
+    "devpassword": "Dev Password"
+  }
+}
